@@ -7,3 +7,8 @@ At the moment, all projects are planned to be created using NgModule workflow. S
 
 Feel free to contact me at @florianlernould7.gmail.com to advise any of my projects.
 These projects can also be used freely.
+
+----------------------------------------------------------------
+
+This project has been created thanks to this video : https://www.youtube.com/watch?v=DTIYVffhJuU&t=24088s&ab_channel=SimonDieny-CodeSenior
+Huge big up to Simon Dieny for making a simple and complete course about building an app using NgModule.
